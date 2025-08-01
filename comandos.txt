@@ -1,0 +1,5 @@
+git init- Cria um novo repositório Git na pasta atual
+git add- Adiciona arquivos ao "stage" (área de peparação) para serem alvos no próximo commit.
+git commit -m "Primeiro commit"- Salva uma versão do projeto com uma mensagem explicando a mudança.
+git status- Mostra o que foi modificado,o que está pronto para o commit e  que ainda não foi adicionado.
+git log- Mostra o hitórico de commits do projeto,com mensagens,datas e autor.
